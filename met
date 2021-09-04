@@ -1,33 +1,74 @@
-#EXTM3U
-#EXTINF:-1, group-title="Malaysia", (MY) TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTM3U 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="TV1HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MALAYSIA",TV1
+#http://51.79.223.246:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/TV1/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
 
-#EXTINF:-1, group-title="Malaysia", (MY) TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="TV2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",TV2
+#http://51.79.223.246:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV2/playlist.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
 
-#EXTINF:-1, group-title="Malaysia", (MY) TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA",TV3
+#http://51.79.223.246:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/TV3/playlist.m3u8
+http://198.16.106.61:8277/streams/d/TV3/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV3/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
+http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
 
-#EXTINF:-1, group-title="Malaysia", (MY) NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1 tvg-ID="TV6" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="MALAYSIA",TV6
+#http://51.79.223.246:61980/myplay/c_58047/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1, group-title="Malaysia", (MY) 8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="NTV7" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA",NTV 7 KPM
+#http://51.79.223.246:61980/myplay/c_58005/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/ntv7_pye/playlist.m3u8
+http://185.180.221.194:8277/streams/d/NTV7/playlist.m3u8
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
-#EXTINF:-1, group-title="Malaysia", (MY) TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA",8TV
+#http://51.79.223.246:61980/myplay/c_58006/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV8/playlist.m3u8
+#http://1.crtv1.ml/hstv/crtv.php?id=442
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#EXTINF:-1, group-title="Malaysia", (MY) Okey
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
+#EXTINF:-1 tvg-ID="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
+#http://51.79.223.246:61980/myplay/c_58007/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
+http://185.180.221.194:8277/streams/d/TV9/playlist.m3u8
+http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8
 
-#EXTINF:-1, group-title="Malaysia", (MY) RTM Sport
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
-#EXTINF:-1, group-title="Malaysia", (MY) RTM BES
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-
-#EXTINF:-1, group-title="Malaysia", (MY) TV6
-https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MALAYSIA",DRAMA SANGAT
+#http://51.79.223.246:61980/myplay/c_58011/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/Dsangat/playlist.m3u8
+http://185.180.221.194:8277/streams/d/Dsangat/playlist.m3u8
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/171954
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 
 #EXTINF:-1, group-title="Malaysia", (MY) TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
